@@ -17,6 +17,12 @@
 2. Place the `.jar` file into your server's `plugins/` directory.
 3. Restart the server to load the plugin.
 
+### 🔗 Download Links
+
+- [SpigotMC](https://www.spigotmc.org/resources/voidgenplus.126855/)
+- [Hangar (PaperMC)](https://hangar.papermc.io/autarch/VoidGenPlus)
+- [Modrinth](https://modrinth.com/plugin/voidgenplus)
+
 ## ⚙️ Configuration
 
 To use VoidGenPlus as the world generator, modify your `bukkit.yml` file located in the root directory of your server:
