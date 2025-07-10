@@ -1,4 +1,3 @@
-Certainly! Here's a sample `README.md` file for your **VoidGenPlus** plugin, tailored for English-speaking users:
 
 ---
 

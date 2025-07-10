@@ -1,4 +1,5 @@
 name: VoidGenPlus
+author: rafalohaki
 version: 1.0.0
 main: org.rafalohaki.voidgenplus.VoidGenPlus
 api-version: '1.21'

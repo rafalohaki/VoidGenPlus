@@ -11,10 +11,8 @@ public class VoidChunkGenerator extends ChunkGenerator {
     @Override
     public void generateSurface(@NotNull WorldInfo worldInfo, @NotNull Random random, int chunkX, int chunkZ, @NotNull ChunkData chunkData) {
         if (chunkX == 0 && chunkZ == 0) {
-            int centerX = 8;
-            int centerZ = 8;
             int y = worldInfo.getMinHeight();
-            chunkData.setBlock(centerX, y, centerZ, Material.BEDROCK);
+            chunkData.setBlock(0, y, 0, Material.BEDROCK);
         }
     }
 
