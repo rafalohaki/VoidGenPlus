@@ -1,2 +1,4 @@
 prompt_output.txt
 target/*
+.idea/*
+.vscode/*
