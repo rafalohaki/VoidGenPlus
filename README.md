@@ -9,7 +9,7 @@
 
 * Generates an empty world with only one bedrock block at coordinates (0, 0).
 * Compatible with Paper 1.21.7.
-* Simple configuration via `bukkit.yml`.([Modrinth][1])
+* Simple configuration via `bukkit.yml`.
 
 ## 📦 Installation
 
@@ -19,7 +19,7 @@
 
 ## ⚙️ Configuration
 
-To use VoidGenPlus as the world generator, modify your `bukkit.yml` file located in the root directory of your server:([GitHub][2])
+To use VoidGenPlus as the world generator, modify your `bukkit.yml` file located in the root directory of your server:
 
 ```yaml
 worlds:
@@ -29,12 +29,11 @@ worlds:
 
 
 
-Replace `your_world_name` with the desired name of your world.([Modrinth][1])
+Replace `your_world_name` with the desired name of your world.
 
 ## 🧪 Usage
 
-After configuring `bukkit.yml`, start your server. When the specified world is generated, it will be an empty void with a single bedrock block at the spawn location.([Modrinth][1])
-
+After configuring `bukkit.yml`, start your server. When the specified world is generated, it will be an empty void with a single bedrock block at the spawn location.
 ## 🧰 Requirements
 
 * Paper server version 1.21.7
