@@ -14,7 +14,7 @@ public final class VoidGenPlus extends JavaPlugin {
         new Metrics(this, pluginId);
 
         // Logowanie informacji o załadowaniu pluginu
-        getLogger().info("VoidGenPlus v" + getDescription().getVersion() + " został pomyślnie załadowany.");
+        getLogger().info("VoidGenPlus v" + getPluginMeta().getVersion() + " został pomyślnie załadowany.");
     }
 
     @Override

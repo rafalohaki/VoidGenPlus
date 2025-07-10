@@ -1,5 +1,5 @@
 name: VoidGenPlus
-version: 1.0.0
+version: ${project.version}
 main: org.rafalohaki.voidgenplus.VoidGenPlus
 api-version: '1.21'
 load: STARTUP
