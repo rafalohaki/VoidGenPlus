@@ -1,7 +1,8 @@
 name: VoidGenPlus
 version: ${project.version}
 main: org.rafalohaki.voidgenplus.VoidGenPlus
-api-version: '1.21'
+api-version: '1.21.8'
 load: STARTUP
 author: rafalohaki
+folia-supported: true
 description: Generates a void world with a single bedrock block at spawn.
