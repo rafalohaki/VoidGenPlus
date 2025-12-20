@@ -1,7 +1,7 @@
 name: VoidGenPlus
 version: ${project.version}
 main: org.rafalohaki.voidgenplus.VoidGenPlus
-api-version: '1.21.8'
+api-version: '1.21'
 load: STARTUP
 author: rafalohaki
 folia-supported: true
