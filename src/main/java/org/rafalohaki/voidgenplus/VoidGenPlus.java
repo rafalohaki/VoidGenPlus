@@ -18,8 +18,12 @@ public final class VoidGenPlus extends JavaPlugin {
         int pluginId = 26453;
         new Metrics(this, pluginId);
 
-        // Log successful plugin loading
         getLogger().info("VoidGenPlus v" + getPluginMeta().getVersion() + " loaded successfully on Folia.");
+    }
+
+    @Override
+    public void onDisable() {
+        getLogger().info("VoidGenPlus disabled.");
     }
 
     @Override
